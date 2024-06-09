@@ -7,7 +7,7 @@ import VanDetail from "../pages/Vans/VanDetail"
 import Layout from "../components/Layout"
 import Dashboard from '../pages/Host/Dashboard';
 import Income from '../pages/Host/Income';
-import Layout from '../components/Layout';
+import Reviews from '../pages/Host/Reviews';
 
 import "../server"
 
