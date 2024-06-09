@@ -6,7 +6,7 @@ import Vans from "../pages/Vans"
 import VanDetail from "../pages/VanDetail"
 import Layout from "../components/Layout"
 
-import "./server"
+import "../server"
 
 function App() {
   return (
